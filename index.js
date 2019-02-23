@@ -23,6 +23,7 @@ return n}
 function makeInt(n){
 return parseInt(n, 10)
 }
-preserveDecimal(n)
-return pase
+function preserveDecimal(n){
+return parseFloat(n)
+}
 
