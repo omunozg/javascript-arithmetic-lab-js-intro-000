@@ -1,7 +1,7 @@
 var a = 5
 var b = 7
 
-add = a + b
-subtract = a- b
+var add = a + b
+var subtract = a- b
 a*b
 a/b
