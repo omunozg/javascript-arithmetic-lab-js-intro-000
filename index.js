@@ -12,6 +12,5 @@ return a*Boolean}
 
 function divide (a,b){
   return a/b}
-  
 }
 
